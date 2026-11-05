@@ -1,0 +1,6 @@
+{
+  "name": "SOM AudioMaster - Strength of Materials 1-Mark Audio Revision",
+  "description": "Interactive audio study studio and revision player for Strength of Materials 100 questions audio script, powered by Gemini 3.8 Flash TTS with natural voices, quiz mode, formula flashcards, and smart explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
